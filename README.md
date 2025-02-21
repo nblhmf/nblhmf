@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Muna Faizatun Nabilah 👋
 
-<!--
-**nblhmf/nblhmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Statistics Graduate | Data Analyst Enthusiast**  
+📊 **Passionate about data-driven decision-making**
 
-Here are some ideas to get you started:
+### 📚 Portfolio Highlights:
+- [Land Use Classification Project](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skills:
+- **Languages**: Python, R, SQL
+- **Tools**: Tableau, Excel
+- **Machine Learning**: Classification, Clustering
+
