@@ -4,7 +4,7 @@
 📊 **Passionate about data-driven decision-making**
 
 ### 📚 Portfolio Highlights:
-- [Land Use Classification Project](#)
+- [Land Use Classification](#)
 
 ### 🛠 Technical Skills:
 - **Languages**: Python, R, SQL
